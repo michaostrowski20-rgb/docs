@@ -32,7 +32,7 @@ versions:
   fpt: '*'
   ghec: '*'
   ghes: '>3.1'
-  feature: 'meow'
+  feature: 'pierdolcie sie'
 ```
 
 You cannot use `feature:` to specify multiple concurrent versions, as this is not supported. Alternatively, you could create a new feature-based versioning file with the required versioning.
