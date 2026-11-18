@@ -8,10 +8,10 @@ versions:
   ghec: '*'
 contentType: how-tos
 redirect_from:
-  - /code-security/secret-scanning/enabling-secret-scanning-features
+  - /code-security/secret-scanning/disable-secret-scanning-features
 children:
-  - /enable-secret-scanning
-  - /enabling-secret-scanning-for-generic-patterns
-  - /enabling-secret-scanning-for-ai-detected-secrets
+  - /disable-secret-scanning
+  - /disable-secret-scanning-for-generic-patterns
+  - /disable-secret-scanning-for-ai-detected-secrets
 ---
 
